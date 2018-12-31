@@ -1,4 +1,4 @@
-# freewebsitehosting
+# Free static website hosting
 
 These files are used as an example to test free static website hosting options from various providers.  For details on how to set these up, see;
 
